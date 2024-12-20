@@ -42,15 +42,15 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_1} alt="" />
                 <div>
-                  <h3>William Shakespeare</h3>
-                  <span>IBM, USA</span>
+                  <h3>Lilly</h3>
+                  <span>Las Vegas, USA</span>
                 </div>
               </div>
               <p>
-                Choosing to pursue my degree at Edusity was one of the best
-                decision I've ever made. The supportive community,
-                state-of-the-art facilities, and commitment to academic
-                excellence have truly exceeded my expectations
+                Eduworld University's exceptional resources and supportive
+                atmosphere made my learning journey remarkable. The faculty's
+                dedication and vibrant campus culture are unparalleled. I highly
+                recommend Eduworld for aspiring students.
               </p>
             </div>
           </li>
@@ -59,15 +59,15 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_2} alt="" />
                 <div>
-                  <h3>William Shakespeare</h3>
-                  <span>IBM, USA</span>
+                  <h3>Pablo Picasso</h3>
+                  <span>Madrid, Spain</span>
                 </div>
               </div>
               <p>
-                Choosing to pursue my degree at Edusity was one of the best
-                decision I've ever made. The supportive community,
-                state-of-the-art facilities, and commitment to academic
-                excellence have truly exceeded my expectations
+                Eduworld University offers an enriching environment. The
+                dedicated faculty, modern facilities, and vibrant community made
+                my academic journey exceptional. I highly recommend Eduworld for
+                an outstanding educational experience.
               </p>
             </div>
           </li>
@@ -76,15 +76,15 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_3} alt="" />
                 <div>
-                  <h3>William Shakespeare</h3>
-                  <span>IBM, USA</span>
+                  <h3>Marie Curie</h3>
+                  <span>Rome, Italy</span>
                 </div>
               </div>
               <p>
-                Choosing to pursue my degree at Edusity was one of the best
-                decision I've ever made. The supportive community,
-                state-of-the-art facilities, and commitment to academic
-                excellence have truly exceeded my expectations
+                Eduworld University's exceptional resources and supportive
+                atmosphere made my learning journey remarkable. The faculty's
+                dedication and vibrant campus culture are unparalleled. I highly
+                recommend Eduworld for aspiring students.
               </p>
             </div>
           </li>
@@ -93,15 +93,15 @@ const Testimonials = () => {
               <div className="user-info">
                 <img src={user_4} alt="" />
                 <div>
-                  <h3>William Shakespeare</h3>
-                  <span>IBM, USA</span>
+                  <h3>William</h3>
+                  <span>Florida, USA</span>
                 </div>
               </div>
               <p>
-                Choosing to pursue my degree at Edusity was one of the best
-                decision I've ever made. The supportive community,
-                state-of-the-art facilities, and commitment to academic
-                excellence have truly exceeded my expectations
+                Eduworld University offers an enriching environment. The
+                dedicated faculty, modern facilities, and vibrant community made
+                my academic journey exceptional. I highly recommend Eduworld for
+                an outstanding educational experience.
               </p>
             </div>
           </li>

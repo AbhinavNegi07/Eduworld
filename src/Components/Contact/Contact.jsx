@@ -14,7 +14,7 @@ const Contact = () => {
     setResult("Sending....");
     const formData = new FormData(event.target);
 
-    formData.append("access_key", "your key");
+    formData.append("access_key", "kry");
 
     const response = await fetch("https://api.web3forms.com/submit", {
       method: "POST",
@@ -47,7 +47,7 @@ const Contact = () => {
         <ul>
           <li>
             <img src={mail_icon} alt="" />
-            contact@eduminati.com
+            contact@eduworld.com
           </li>
           <li>
             <img src={phone_icon} alt="" />
